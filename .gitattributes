@@ -1,0 +1,7 @@
+* text=auto
+*.pdf binary
+*.db binary
+*.xlsx binary
+*.exe binary
+*.dll binary
+*.pdb binary
